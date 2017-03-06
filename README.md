@@ -1,2 +1,5 @@
 # hello-world
-Just another repository - Hello World Tutorial
+Hi Humans!
+
+Coffeescript
+Tacos Earth tacos
